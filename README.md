@@ -1,5 +1,8 @@
 Color-Hex
 =========
+Created by: Brandon Wong
+Creation Date: 11/2014
+
 Color Hex now available for free at the Google Play Store
 Can find it at the following link: https://play.google.com/store/apps/details?id=com.wongapps.colormix
 
